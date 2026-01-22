@@ -65,16 +65,16 @@ The following visualizations were generated directly from the Python analysis
 to support interpretation, stakeholder decision-making, and intervention design.
 
 ### Environmental Factors by Stress Category
-![Environmental Factors](assets/Environmental_factors by Stress_Category.png)
+![Environmental Factors](assets/Environmental_factors_by_Stress_Category.png)
 
 ### Social Factors and Physical Symptoms by Stress Level
-![Social and Physical Factors](assets/Social_Factors_by_Stress and Physical_Symthoms.png)
+![Social and Physical Factors](assets/Social_Factors_by_Stress_and_Physical_Symthoms.png)
 
 ### Stress Distribution by Mental Health History and Career Concerns
-![Mental Health & Career Concerns](assets/Stress_Dist_by Mental_Health and Career_Concern Vs Stress_Level.png)
+![Mental Health & Career Concerns](assets/Stress_Dist_by Mental_Health_and_Career_Concern_vs_Stress_Level.png)
 
 ### Stress Level Distribution and Anxiety vs Depression
-![Anxiety vs Depression](assets/Stress_level_Dist. and Anxiety vsDepression.png)
+![Anxiety vs Depression](assets/Stress_level_Dist._and_Anxiety_vs_Depression.png)
 
 ---
 
