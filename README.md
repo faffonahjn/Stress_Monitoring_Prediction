@@ -59,6 +59,23 @@ Data includes:
 **Key Insight:**  
 Stress is driven primarily by **psychosocial and lifestyle factors**, not academics alone — highlighting the need for **holistic interventions**.
 
+## 📊 Analysis Visualizations (Python)
+
+The following visualizations were generated directly from the Python analysis
+to support interpretation, stakeholder decision-making, and intervention design.
+
+### Environmental Factors by Stress Category
+![Environmental Factors](assets/Environmental_factors by Stress_Category.png)
+
+### Social Factors and Physical Symptoms by Stress Level
+![Social and Physical Factors](assets/Social_Factors_by_Stress and Physical_Symthoms.png)
+
+### Stress Distribution by Mental Health History and Career Concerns
+![Mental Health & Career Concerns](assets/Stress_Dist_by Mental_Health and Career_Concern Vs Stress_Level.png)
+
+### Stress Level Distribution and Anxiety vs Depression
+![Anxiety vs Depression](assets/Stress_level_Dist. and Anxiety vsDepression.png)
+
 ---
 
 ## 🧩 Student Segmentation & Insights
